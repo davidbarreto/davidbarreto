@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidbarreto
 - 👀 I’m interested in Java, Programming Chalenges, Efficient Algorithms, Multithreading, Clean Code, Artificial Inteligence, Python (...)
-- 🌱 I’m currently learning Python, Machine Learning, NodeJS and React/React Native
+- 🌱 I’m currently learning Python, Rust and Golang
 - 💞️ I’m looking to collaborate on educational projects, and open source.
 - 📫 How to reach me:
     E-mail: david.brto@gmail.com
